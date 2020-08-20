@@ -29,12 +29,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://localhost:8081/repository/build-rel/</url>
+            <url>http://localhost:8081/repository/student-rel/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://localhost:8081/repository/build-snap/</url>
+            <url>http://localhost:8081/repository/student-snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
