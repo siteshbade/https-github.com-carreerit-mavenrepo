@@ -29,7 +29,7 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://localhost:8081/repository/maven-releases/</url>
+            <url>http://localhost:8081/repository/build-rel/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
